@@ -2,6 +2,8 @@
 
 This project investigates how to enhance large language models’ (LLMs) reasoning capabilities via Reinforcement Learning (RL). We build on the **DeepSeek** framework and introduce **Group Relative Policy Optimization (GRPO)**, a novel RL algorithm tailored for instruction-following and chain‐of‐thought tasks.
 
+A typical LLMs training pipeline nowadays:
+![image](https://github.com/user-attachments/assets/eabb91a3-526e-4694-bd25-c48c1c854275)
 ---
 
 ## 🚀 Features
