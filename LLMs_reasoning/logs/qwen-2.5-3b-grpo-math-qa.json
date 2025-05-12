@@ -1,0 +1,25 @@
+{
+  "timestamp": "20250501_091048",
+  "model_name": "./logs/qwen-2.5-3b-grpo-math-qa",
+  "metrics": {
+    "sacrebleu": 31.578515491455818,
+    "rouge_scores": {
+      "rouge1": {
+        "precision": 0.45725254563737516,
+        "recall": 0.7797745263569266,
+        "fmeasure": 0.5475046392114326
+      },
+      "rouge2": {
+        "precision": 0.24822515207782125,
+        "recall": 0.42314863423246607,
+        "fmeasure": 0.2972015914597818
+      },
+      "rougeL": {
+        "precision": 0.31595627072856264,
+        "recall": 0.5475208685282336,
+        "fmeasure": 0.37949622057081805
+      }
+    },
+    "exact_match_score": 0.67
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "timestamp": "20250429_211728",
+  "model_name": "./logs/qwen-2.5-3b-instruct-math-qa",
+  "metrics": {
+    "perplexity": 1.7494996062448478,
+    "sacrebleu": 21.141207151731916,
+    "rouge_scores": {
+      "rouge1": {
+        "precision": 0.6415697787174672,
+        "recall": 0.62854189594949,
+        "fmeasure": 0.5971126943410203
+      },
+      "rouge2": {
+        "precision": 0.34920737973523935,
+        "recall": 0.3439178244544918,
+        "fmeasure": 0.3258612135622798
+      },
+      "rougeL": {
+        "precision": 0.46486646980576624,
+        "recall": 0.4525032003622259,
+        "fmeasure": 0.4307612538416393
+      }
+    },
+    "exact_match_score": 0.47
+  }
+}
