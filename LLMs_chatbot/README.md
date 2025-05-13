@@ -30,3 +30,5 @@ python app.py
 ```
 
 Then open your browser and navigate to `http://localhost:7860` to interact with the chatbot.
+
+![alt text](image.png)
